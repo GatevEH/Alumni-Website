@@ -7,7 +7,7 @@ It uses the HttpSession class to track what the users are doing.
 There are two main roles in the app: Administrator and Alumni.
 
 Administrators can:
-- approve Alumni's registration requests;
+- approve registration requests from Alumni;
 - add specialties from which the users can select when registering in the system;
 - view all users.
 
